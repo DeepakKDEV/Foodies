@@ -1,4 +1,4 @@
-Food Delivery App![online-food-delivery-industry-min](https://github.com/DeepakKDEV/ApicrudOperation/assets/142679882/11625f4d-3afe-4a4f-a634-7d9a1bf6114f)
+
    
    ##### 🔸This is simple Food Delivery App built using Spring Boot framework. The idea was to build  a simple Food Delivery App to perform basic CRUD operations                  with some validations and also auhentication.
 ## :one: Frameworks and Languages Used -
@@ -16,6 +16,8 @@ Food Delivery App![online-food-delivery-industry-min](https://github.com/DeepakK
     5. MySQL Driver
     6. Validation
     7. Swagger
+
+    Extra Features:- Media Type :- xml json
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## :three: Dataflow (Functions Used In)
 ### :white_flower: 1. Model - This used to show the mirror of our database which involves real world entities.
